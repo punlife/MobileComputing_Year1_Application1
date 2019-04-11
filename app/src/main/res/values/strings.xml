@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ld00245_toDoList</string>
+    <string name="unofficial_app_name">Todolist</string>
+    <string name="current_version">Version 1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_Deleted_Message">List deleted</string>
+    <string name="lists_Deleted_Message">All lists deleted</string>
+    <string name="delete_list">Delete a list</string>
+    <string name="delete_all_list">Delete all lists</string>
+    <string name="delete_all_list_message">Are you sure you want to delete all lists?</string>
+    <string name="create_list_button">Create a new list</string>
+    <string name="load_list_button">Load existing list</string>
+    <string name="list_title">Enter list title</string>
+    <string name="title_activity_list_">List_Activity</string>
+    <string name="Load_list_dialog_title">Load an existing list</string>
+    <string name="Load_list_dialog_message">No existing lists found, please create a list.</string>
+    <string name="Load_list_dialog_button">Return</string>
+    <string name="Create_list_dialog_message">Input the information to create the list</string>
+    <string name="Create_list_dialog_title">Create a list</string>
+    <string name="Create_list_dialog_positive">Create</string>
+    <string name="Create_list_dialog_negative">Cancel</string>
+    <string name="Create_list_dialog_hint">List name</string>
+    <string name="removeitem_dialog_title">Remove item</string>
+    <string name="add_list_dialog_positive">Continue</string>
+    <string name="add_list_dialog_hint1">Item name</string>
+    <string name="add_list_dialog_hint2">Additional information</string>
+    <string name="add_list_error">Please enter a value</string>
+    <string name="priority_choice_dialog_title">Priority</string>
+    <string name="priority_choice_dialog_message">Choose the priority for the item</string>
+    <string name="Backpress_dialog_title">Return to main menu</string>
+    <string name="Backpress_dialog_message">Return to main menu</string>
+    <string name="Backpresshomescreen_dialog_title">Exit</string>
+    <string name="Backpresshomescreen_dialog_message">Exit the application?</string>
+</resources>
+

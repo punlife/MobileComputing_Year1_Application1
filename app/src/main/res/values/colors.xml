@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f5a442</color>
+    <color name="colorPrimaryDark">#ff8a00</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="PureWhite">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="minusButtonColor">#73abdb</color>
+    <color name="paleBlue">#FFA9C7E1</color>
+    <color name="palerBlue">#FFCAD7E2</color>
+    <color name="DarkerBlue">#67aeec</color>
+    <color name="plusButtonColor">#f7941d</color>
+    <color name="paleOrange">#f5a442</color>
+    <color name="palerOrange">#FFEFBF86</color>
+    </resources>
